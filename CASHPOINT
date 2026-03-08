@@ -22,7 +22,7 @@
     h1 {
       text-align: center;
       color: #fff;
-      background: #0000cc; /* bright blue */
+      background: #0000cc; /* bright sea blue */
       padding: 12px;
       border-radius: 6px;
     }
